@@ -44,3 +44,8 @@ B.Tech — Artificial Intelligence and Machine Learning
 ---
 
 This project demonstrates my learning and practical experience with static website hosting and content delivery using AWS.
+## Technical Blog
+
+I shared my experience deploying my personal portfolio using Amazon S3 and Amazon CloudFront.
+
+**Read my blog:** [Deploying My Portfolio on AWS](https://dev.to/monika_senthilkumar/how-i-deployed-my-personal-portfolio-using-amazon-s3-and-cloudfront-1p2g)
