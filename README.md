@@ -1,4 +1,4 @@
-# AWS Cloud & AI Portfolio
+# AWS Cloud Portfolio
 
 Welcome to my personal portfolio repository! I am an Artificial Intelligence and Machine Learning student interested in AWS Cloud Computing and AI technologies.
 
